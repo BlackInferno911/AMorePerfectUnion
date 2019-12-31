@@ -3,30 +3,30 @@ state={
 	id=377
 	name="STATE_377"
 	manpower = 435572
-	
+
 	state_category = rural
-	
+
 	resources={
 		steel=20 # was: 40
 		oil=5 # was: 10
-		aluminium=8 # was: 16
+		aluminium=16 # was: 16
 	}
 
 	history={
-		owner = USA
+		owner = CAC
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			air_base = 2
 		}
-		add_core_of = USA
+		add_core_of = CAC
 		victory_points = {
-			853 3 
+			853 20
 		}
 
 	}
 
 	provinces={
-		850 853 1793 3834 4796 6897 7747 7821 7920 8115 10573 10783 11814 12765 
+		850 853 1793 4796 6897 7747 7821 8115 10573 11814 12765
 	}
 }
